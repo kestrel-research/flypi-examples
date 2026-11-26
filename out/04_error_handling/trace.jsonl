@@ -1,0 +1,90 @@
+{"event": "statustext", "text": "ArduCopter V4.5-fake (flypi demo simulator)", "t": 0.001}
+{"event": "statustext", "text": "Frame: QUAD/X", "t": 0.002}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.002}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.103}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.204}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.306}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.407}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.508}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.609}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.711}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.813}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 0.915}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 1.017}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 1.119}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 1.221}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 1.322}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 1.423}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 1.524}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 1.626}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 100.0, "cur": 0.5, "link": true, "t": 1.727}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 1.828}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 1.929}
+{"event": "statustext", "text": "PreArm: Need 3D Fix", "t": 2.01}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.031}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.132}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.233}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.335}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.436}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.537}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.639}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.74}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.842}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 2.943}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.045}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.148}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.25}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.352}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.453}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.554}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.655}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.757}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.858}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 3.959}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.062}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.164}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.265}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.367}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.468}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.57}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.671}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.773}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.875}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 4.976}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 5.078}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 5.179}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 5.281}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.99, "cur": 0.5, "link": true, "t": 5.382}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 5.483}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 5.585}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 5.686}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 5.788}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 5.889}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 5.991}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 6.092}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 6.193}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 6.295}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 6.396}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 6.498}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 6.6}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 6.701}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 6.802}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 6.903}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.004}
+{"event": "cmd", "text": "COMPONENT_ARM_DISARM", "params": [1.0, 0.0, 0.0], "t": 7.065}
+{"event": "statustext", "text": "PreArm: Need 3D Fix", "t": 7.065}
+{"event": "cmd", "text": "DO_SET_MODE", "params": [1.0, 4.0, 0.0], "t": 7.086}
+{"event": "statustext", "text": "Mode change to GUIDED failed: needs GPS", "t": 7.086}
+{"event": "cmd", "text": "COMPONENT_ARM_DISARM", "params": [1.0, 0.0, 0.0], "t": 7.106}
+{"event": "statustext", "text": "PreArm: Need 3D Fix", "t": 7.106}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.106}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.208}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.309}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.412}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.514}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.615}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.717}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.818}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 7.92}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 8.021}
+{"n": 0.0, "e": 0.0, "alt": 0.0, "vn": 0.0, "ve": 0.0, "vu": 0.0, "lat": -35.363261, "lon": 149.16523, "mode": "STABILIZE", "armed": false, "batt": 99.98, "cur": 0.5, "link": true, "t": 8.122}

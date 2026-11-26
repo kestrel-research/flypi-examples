@@ -1,0 +1,19 @@
+[  2.0s] OK  connect to an address with no vehicle
+        -> ConnectionTimeout: No vehicle heartbeat on 'udp:127.0.0.1:14599' within 2s. Check the connection string, baud rate, wiring, and that the autopilot (or SITL) is running.
+[  2.8s] Connected to <Drone ArduPilot QUADROTOR sysid=1 mode=STABILIZE armed=False>
+[  2.8s] OK  set_mode('WARP')
+        -> ModeError: Unknown mode 'WARP' for this ArduPilot vehicle. Available modes: ACRO, ALT_HOLD, AUTO, AUTOROTATE, AUTOTUNE, AUTO_RTL, AVOID_ADSB, BRAKE, CIRCLE, DRIFT, FLIP, FLOWHOLD, FOLLOW, GUIDED, GUIDED_NOGPS, LAND, LOITER, OF_LOITER, POSHOLD, POSITION, RATE_ACRO, RTL, SMART_RTL, SPORT, STABILIZE, SYSTEMID, THROW, TURTLE, ZIGZAG
+[  2.8s] OK  takeoff() while disarmed
+        -> NotArmedError: The vehicle must be armed before takeoff. Call drone.arm() first.
+[  2.8s] OK  takeoff(-3)
+        -> ValueError: altitude must be a positive number of metres, got -3
+[  6.8s] OK  wait_ready() with no GPS
+        -> WaitTimeout: Timed out after 4s waiting for the vehicle to be ready to arm (pre-arm checks + 3D GPS fix)
+[  6.8s] OK  arm() with failing pre-arm checks
+        -> CommandRejected: MAV_CMD_COMPONENT_ARM_DISARM was rejected by the vehicle (MAV_RESULT_FAILED). Recent vehicle messages: PreArm: Need 3D Fix
+[  6.8s]     err.command=MAV_CMD_COMPONENT_ARM_DISARM err.result=MAV_RESULT_FAILED
+[  6.8s]     err.status_messages=['PreArm: Need 3D Fix']
+[  6.8s] OK  set_mode('GUIDED') without GPS
+        -> CommandRejected: MAV_CMD_DO_SET_MODE was rejected by the vehicle (MAV_RESULT_FAILED). Recent vehicle messages: PreArm: Need 3D Fix | Mode change to GUIDED failed: needs GPS
+[  6.8s] Caught generic flypi.FlypiError: CommandRejected
+[  6.8s] Drone is still safely disarmed: armed=False

@@ -1,0 +1,5 @@
+[  8.0s] Airborne: GUIDED    armed=True  alt=  7.6 m  speed= 0.0 m/s  batt=99%
+[ 16.1s] ConnectionLost: No heartbeat from the vehicle for 3.2s.
+[ 16.1s] is_connected=False  last telemetry: GUIDED    armed=True  alt=  7.9 m  speed= 0.0 m/s  batt=98%
+[ 16.1s] flypi cannot command the vehicle now. On the autopilot side, the GCS
+[ 16.1s] failsafe (FS_GCS_ENABLE) takes over - see the RTL in the flight report.

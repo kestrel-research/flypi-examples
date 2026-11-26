@@ -1,0 +1,7 @@
+[  0.7s] Logging telemetry at 5 Hz
+[  7.4s] Up: GUIDED    armed=True  alt=  5.7 m  speed= 0.0 m/s  batt=99%
+[  7.5s] LOITER for 4 s
+[ 11.5s] Attitude roll=-0.24 pitch=-0.35 yaw=0.0 deg
+[ 11.5s] Battery 16.41 V, 18.0 A, 99%
+[ 21.1s] Wrote 101 rows to out/02_telemetry_logger/telemetry.csv
+[ 21.1s] Recent vehicle messages: Arming motors | Takeoff to 6.0 m | Land complete | Disarming motors (landed)
