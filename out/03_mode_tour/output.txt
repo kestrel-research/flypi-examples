@@ -1,0 +1,7 @@
+[  0.7s] This vehicle accepts 29 modes, e.g. ACRO, ALT_HOLD, AUTO, AUTOROTATE, AUTOTUNE, AUTO_RTL, AVOID_ADSB, BRAKE ...
+[  8.0s] Took off in GUIDED: GUIDED    armed=True  alt=  7.6 m  speed= 0.0 m/s  batt=99%
+[  8.1s] Now in LOITER
+[ 11.1s] Now in ALT_HOLD
+[ 14.1s] RTL: climbs to RTL_ALT (15 m), returns home, lands, disarms
+[ 17.8s] RTL climb done: RTL       armed=True  alt= 14.5 m  speed= 0.0 m/s  batt=98%
+[ 35.1s] Back on the ground: RTL       armed=False alt=  0.0 m  speed= 0.0 m/s  batt=96%

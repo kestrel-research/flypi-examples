@@ -1,0 +1,14 @@
+[  0.0s] Connecting to udp:127.0.0.1:14550 ...
+[  0.7s] Connected: <Drone ArduPilot QUADROTOR sysid=1 mode=STABILIZE armed=False>
+[  0.7s] Autopilot=ArduPilot  type=QUADROTOR
+[  0.7s] Waiting for pre-arm checks and a 3D GPS fix ...
+[  3.8s] Ready. GPS fix 3 with 14 sats, battery 16.79 V
+[  3.8s] Armed
+[  8.6s] Reached altitude -> GUIDED    armed=True  alt=  9.6 m  speed= 0.0 m/s  batt=99%
+[  9.6s] hovering   GUIDED    armed=True  alt=  9.8 m  speed= 0.0 m/s  batt=99%
+[ 10.6s] hovering   GUIDED    armed=True  alt=  9.9 m  speed= 0.0 m/s  batt=99%
+[ 11.6s] hovering   GUIDED    armed=True  alt=  9.9 m  speed= 0.0 m/s  batt=99%
+[ 12.6s] hovering   GUIDED    armed=True  alt=  9.9 m  speed= 0.0 m/s  batt=98%
+[ 13.6s] hovering   GUIDED    armed=True  alt=  9.9 m  speed= 0.0 m/s  batt=98%
+[ 13.6s] Landing ...
+[ 27.1s] Landed and disarmed -> LAND      armed=False alt=  0.0 m  speed= 0.0 m/s  batt=97%

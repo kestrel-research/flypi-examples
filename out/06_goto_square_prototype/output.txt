@@ -1,0 +1,6 @@
+[  8.6s] Airborne: GUIDED    armed=True  alt=  9.5 m  speed= 0.1 m/s  batt=99%
+[ 15.3s] Waypoint 1/4 (30 N,  0 E, 10 m) reached, error 0.92 m
+[ 22.4s] Waypoint 2/4 (30 N, 30 E, 14 m) reached, error 0.69 m
+[ 29.6s] Waypoint 3/4 ( 0 N, 30 E, 14 m) reached, error 0.96 m
+[ 36.7s] Waypoint 4/4 ( 0 N,  0 E, 10 m) reached, error 0.68 m
+[ 57.8s] Mission complete: RTL       armed=False alt=  0.0 m  speed= 0.0 m/s  batt=93%

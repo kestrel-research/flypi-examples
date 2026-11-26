@@ -1,0 +1,4 @@
+[  3.8s] Battery at start: 44% (15.25 V)
+[  9.3s] Hovering: LOITER    armed=True  alt= 11.4 m  speed= 0.0 m/s  batt=39%
+[ 25.6s] Battery 25% <= 25% -> RETURN TO LAUNCH
+[ 45.2s] Home safe: RTL       armed=False alt=  0.0 m  speed= 0.0 m/s  batt=10%
